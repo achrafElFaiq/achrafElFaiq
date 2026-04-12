@@ -1,54 +1,20 @@
-# Hi, I'm Achraf EL FAIQ 👋
+🤖
+Hey, I'm Achraf — I love building AI systems, whether that's classical ML, deep learning, or generative AI (RAG, LLM pipelines, AI agents). I care about making them **secure, maintainable, and production-ready**, end to end.
 
-**AI Engineer** specializing in **LLM/RAG, AI Security & MLOps** — available for full-time roles from **September 2026**.
+I'm on my way to mastering full production-cycle AI projects, from data pipelines and model training to deployment and monitoring.
 
----
-
-## 🧠 About me
-
-- 🔐 Currently building an **LLM red teaming framework** at **Orange** (GCP, Vertex AI)
-- 🤖 Built a **production RAG chatbot** at **Matmut** — 90% faster doc access across 6,000 documents
-- 🛠 Designed an **end-to-end MLOps pipeline** for energy time-series forecasting (Enedis × INSA)
-- 🎌 Deep Learning R&D in **Japan** — audio CNN for deaf assistance, 95% accuracy
-- 🎓 Engineering degree in Data/AI @ **INSA Rouen** · Erasmus @ **UAB Barcelona**
+Through my work, I've learned to extract real value from data and use AI to simplify and augment everyday processes, both on personal projects and with leading organizations: **Orange**, **Enedis**, **Matmut** (France), and the **National Institute of Technology of Oyama** (Japan).
 
 ---
 
-## 🛠 Tech Stack
+**Libraries & Frameworks**
 
-**Languages:** Python · Java · SQL · C  
-**LLM/AI:** LangChain · HuggingFace · RAG · Fine-tuning · AI Agents · NLP  
-**MLOps:** Docker · MLflow · FastAPI · CI/CD · Git  
-**Cloud:** GCP (Vertex AI, Cloud Run) · AWS  
-**Security:** LLM Red Teaming · Prompt Injection · Jailbreak Analysis  
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat) ![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
----
+**Cloud**
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔐 LLM Red Teaming Framework | Framework to detect LLM vulnerabilities pre-prod | Python, LangChain, GCP |
-| 🤖 RAG Chatbot (Matmut) | Production chatbot, 6000 docs, 42 users | LangChain, FastAPI, Docker, ElasticSearch |
-| ⚡ MLOps Pipeline (Enedis) | End-to-end energy forecasting pipeline | PyTorch, MLflow, XGBoost, Docker |
-| 🌐 Collaborative AI SaaS | Multi-LLM platform (OpenRouter), deployed on Vercel | Full-stack, Supabase, Vercel |
-| 🎵 Audio CNN (Japan) | Sound classifier to assist deaf people | TensorFlow, Keras, Python |
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-![Achraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
-
----
-
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-achrafelfaiq.pro%40gmail.com-blue?style=flat)](mailto:achrafelfaiq.pro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](YOUR_PORTFOLIO_URL)
-
----
-
-*Open to AI/ML engineering roles · National mobility · TOEIC C1 (955/990)*
+I also do a lot of tech watching. If you're curious, check out my personal writing on **[achrafelfaiq.fr/blog](https://achrafelfaiq.fr/blog)** 📝
