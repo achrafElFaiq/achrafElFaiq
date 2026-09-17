@@ -2,9 +2,9 @@
 
 AI engineer specialized in **Generative AI, Data Engineering, and Data Science**. I build the full pipeline, from raw data to production-grade AI systems, and I make sure what I ship is **secure, maintainable, and actually runs in production**.
 
-🧠 **Gen AI & Agents**: RAG pipelines, multi-agent orchestration, and LLM red teaming / AI security, built and battle-tested on real production systems, not just prototypes.
+🧠 **Gen AI & Agents**: RAG pipelines, multi-agent orchestration, agent/RAG evaluation, and LLM red teaming / AI security, built and battle-tested on real production systems, not just prototypes.
 
-🗄️ **Data Engineering**: streaming & batch pipelines, lakehouse architectures, designed for reliability at banking/insurance scale.
+🗄️ **Data Engineering**: streaming & batch pipelines and lakehouse architectures, designed for reliability at scale.
 
 📊 **Data Science**: classical ML and deep learning, from experimentation to monitored deployment.
 
@@ -17,7 +17,7 @@ AI engineer specialized in **Generative AI, Data Engineering, and Data Science**
 
 🧠 **Gen AI & LLMOps**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat) ![Vector DB](https://img.shields.io/badge/Vector_DB_(pgvector)-336791?style=flat&logo=postgresql&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat) ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat) ![RAGAS](https://img.shields.io/badge/RAGAS-8A2BE2?style=flat) ![Vector DB](https://img.shields.io/badge/Vector_DB_(pgvector)-336791?style=flat&logo=postgresql&logoColor=white)
 
 🗄️ **Data Engineering**
 
