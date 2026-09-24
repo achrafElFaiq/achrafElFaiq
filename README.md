@@ -2,9 +2,9 @@
 
 AI engineer specialized in **Generative AI, Data Engineering, and Data Science**. I build the full pipeline, from raw data to production-grade AI systems, and I make sure what I ship is **secure, maintainable, and actually runs in production**.
 
-🧠 **Gen AI & Agents**: RAG pipelines, multi-agent orchestration, agent/RAG evaluation, and LLM red teaming / AI security, built and battle-tested on real production systems, not just prototypes.
+🧠 **Gen AI & Agents**: RAG pipelines, multi-agent orchestration, agent/RAG evaluation, and LLM red teaming / AI security, built and tested on real production systems, not just PoCs.
 
-🗄️ **Data Engineering**: streaming & batch pipelines and lakehouse architectures, designed for reliability at scale.
+🗄️ **Data Engineering**: streaming & batch pipelines and lakehouse architectures.
 
 📊 **Data Science**: classical ML and deep learning, from experimentation to monitored deployment.
 
